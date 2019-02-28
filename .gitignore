@@ -1,0 +1,3 @@
+/bin/de/airmann/scalefreq/core/*.class
+*.class
+/bin
