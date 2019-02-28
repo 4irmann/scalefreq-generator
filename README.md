@@ -67,7 +67,7 @@ Imported render output:
 ![Inverse and alternate colors](doc/img/scalefreq5.png)
 
 **COMPILATION HINTS**
-The source was created using Eclipse IDE and Google SWT framework. If you want to recompile from source you will need some Eclipse jar files / libraries. Those jars are included inside the scalefreq binary release jar.
+The source was created using Eclipse IDE and Google SWT framework. If you want to recompile from source you will also need some Eclipse jar files / libraries. Those jars are included inside the scalefreq_x_xx.jar. The jarinjar loader and the SWT jars are part of the source already (not the best solution - I know :-)
 
 **CHANGELOG**
 
