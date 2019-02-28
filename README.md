@@ -32,39 +32,39 @@ HINT: scalefreq stores all made settings in the current user profile. In order t
 
 The HTML Renderer creates frequency tables in HTML format for any  specific scale. Alternatively it can render all tonic variations of a  scale (chromatically). Also a huge HTML file can be generated, which  contains all available Scalefreq scales.  
 
-![HTML renderer](doc\img\scalefreq7.png)
+![HTML renderer](doc/img/scalefreq7.png)
 
 Render output:
 
-![Render output](doc\img\scalefreq8.png)
+![Render output](doc/img/scalefreq8.png)
 
 **GLISS EQ FILTER RENDERER**
 
 The Gliss EQ filter renderer generates CSV files which can be  imported into Voxengo Gliss EQ VST plugin. Thus, it’s e.g. possible to  conveniently import notch/peaking filters for non-scale notes (= inverse  scale).
 
-![Gliss EQ filter renderer](doc\img\scalefreq1.png)
+![Gliss EQ filter renderer](doc/img/scalefreq1.png)
 
 Imported render output:
 
-![Imported render output](doc\img\scalefreq2.png)
+![Imported render output](doc/img/scalefreq2.png)
 
 **GLISS EQ AREAS RENDERER**
 
 The Gliss EQ area renderer also generates CSV files which can be  imported into Voxengo Gliss EQ VST plugin in order to create colorful EQ  areas marker. 
 
-![Gliss EQ areas renderer](doc\img\scalefreq3.png)
+![Gliss EQ areas renderer](doc/img/scalefreq3.png)
 
 Imported render output:
 
-![Gliss EQ areas renderer](doc\img\scalefreq4.png)
+![Gliss EQ areas renderer](doc/img/scalefreq4.png)
 
 Inverse and alternate colors:
 
-![Inverse and alternate colors](doc\img\scalefreq6.png)
+![Inverse and alternate colors](doc/img/scalefreq6.png)
 
 Imported render output:
 
-![Inverse and alternate colors](doc\img\scalefreq5.png)
+![Inverse and alternate colors](doc/img/scalefreq5.png)
 
 **CHANGELOG**
 
