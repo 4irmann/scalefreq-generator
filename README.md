@@ -11,7 +11,7 @@ Currently the following output format renderer are included:
 
 **INSTALLATION**
 
-Download the latest release (e.g. 1.0.1) as scalefreq_x_xx.jar here from Github
+Download the latest binary release as scalefreq_x_xx.jar (e.g. 1.0.1) here from Github
 
 A Java 1.7 Runtime Environment (JRE or JDK) or higher is required.
 The following platforms are supported:
@@ -65,6 +65,9 @@ Inverse and alternate colors:
 Imported render output:
 
 ![Inverse and alternate colors](doc/img/scalefreq5.png)
+
+**COMPILATION HINTS**
+The source was created using Eclipse IDE and Google SWT framework. If you want to recompile from source you will need some Eclipse jar files / libraries. Those jars are included inside the scalefreq binary release jar.
 
 **CHANGELOG**
 
