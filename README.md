@@ -1,5 +1,5 @@
 # ScaleFreq Generator
-4irmann's Scalefreq Generator is a tool for rendering frequencies of notes / musical scales into various output formats. It’s primarily aimed for mixing/mastering engineers and other musical interested people. The  frequencies of musical scale or non-scale notes (inverse) are important  in mixing and mastering situations. E.g. non-scale frequencies are often attenuated using an EQ. 
+Scalefreq Generator is a tool for rendering frequencies of notes / musical scales into various output formats. It’s primarily aimed for mixing/mastering engineers and other musical interested people. The  frequencies of musical scale or non-scale notes (inverse) are important  in mixing and mastering situations. E.g. non-scale frequencies are often attenuated using an EQ. 
 
 Scalefreq consists of a core system, a render-plugin architecture and a graphical frontend for convenient user interaction.
 
