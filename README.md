@@ -11,7 +11,7 @@ Currently the following output format renderer are included:
 
 **INSTALLATION**
 
-Download the latest binary release as scalefreq_x_xx.jar (e.g. 1.0.1) here from Github
+Download the latest binary release as scalefreq_x_xx.jar (e.g. 1.01) here from Github
 
 A Java 1.7 Runtime Environment (JRE or JDK) or higher is required.
 The following platforms are supported:
